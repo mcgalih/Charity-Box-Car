@@ -1,6 +1,6 @@
 # Kotak Amal Berjalan Otomatis
 
-![Publikasi](https://img.shields.io/badge/-PUBLIKASI-blue?style=for-the-badge)
+<a href="https://repository.uinjkt.ac.id/dspace/handle/123456789/67125"><img src="https://img.shields.io/badge/-PUBLIKASI-blue?style=for-the-badge"></a>
 
 ### Ringkasan
 <p align="justify">
