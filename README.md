@@ -38,6 +38,7 @@ Proyek ini bertujuan untuk membuat kotak amal yang dapat berjalan secara otomati
 9. Buck Converter MP2307
 10. Saklar
 11. Jack DC Female
+12. Push Button
 
 ### Wiring Diagram
 
